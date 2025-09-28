@@ -49,3 +49,19 @@ Gambar 9 : Ketika ingin reservasi lapangan bulu tangkis (create)
 <img width="480" height="302" alt="image" src="https://github.com/user-attachments/assets/79b1144c-f11e-4501-88cb-50bb9a307274" />
 
 Gambar 10 : Menghapus reservasi
+
+# Menu untuk menyelesaikan program
+
+<img width="637" height="318" alt="image" src="https://github.com/user-attachments/assets/7e9d490a-7885-4fa1-9e78-c1a6a9c9f02e" />
+
+Gambar 11 : Cara menyelesaikan program ketika login menjadi admin
+
+<img width="601" height="275" alt="image" src="https://github.com/user-attachments/assets/5c1d7ab0-1e56-4588-b938-78d4128e0f73" />
+
+Gambar 12 : Cara menyelesaikan program ketika login menjadi member
+
+# Menu Error handling
+
+<img width="605" height="245" alt="image" src="https://github.com/user-attachments/assets/ce815f01-bf7a-4c51-9b1b-8a5e29eed4ab" />
+
+Gambar 13 : Error handling
